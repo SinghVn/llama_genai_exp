@@ -1,0 +1,4 @@
+llama-stack
+langchain_community
+langchain-core
+langchain-ollama
